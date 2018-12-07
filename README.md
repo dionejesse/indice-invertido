@@ -5,7 +5,9 @@ Documentação TP2:
 
 Introdução:
 
-    O trabalho trata-se de um índice invertido composto por um Map e um set. Para cada valor “Key” do map é atribuído os respectivos nomes dos arquivos. Ou seja, associa-se à uma palavra os nomes dos arquivos que a contém. 
+    O trabalho trata-se de um índice invertido composto por um Map e um set. 
+    Para cada valor “Key” do map é atribuído os respectivos nomes dos arquivos. 
+    Ou seja, associa-se à uma palavra os nomes dos arquivos que a contém. 
     Para a resolução do problema optamos por criar um laço para que os arquivos sejam passados não via parâmetro argc e argv, mas sim como uma variável filename. Sendo assim facilita a obtenção dos nomes dos arquivos – que serão usados no índice.
 
 Funcionamento:
